@@ -1,0 +1,1 @@
+mklink /D "E:\Work\AI\BilingABC\Assets\Res\Lesson" "E:\SVN\BLArt\Assets\Resources\2DAnimation"

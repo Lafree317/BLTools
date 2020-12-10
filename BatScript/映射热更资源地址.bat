@@ -1,0 +1,1 @@
+mklink /D "C:\wamp64\www\res" "\\DESKTOP-P7GROT2\res"
